@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Nothr's Notes Intro
+# Nothr's Notes Overview
 
 This notes is for everyone who wants to learn deep roots of language with easy steps
 
