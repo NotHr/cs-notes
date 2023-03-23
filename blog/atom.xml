@@ -15,7 +15,7 @@
         <summary type="html"><![CDATA[Hello, everyone this is the first blog post for this notes.]]></summary>
         <content type="html"><![CDATA[<p>Hello, everyone this is the first blog post for this notes. </p><p>I hope everyone finds this useful because it is necessary for everyone to know about the core languages.</p><p>I want to share a todo list with you guys for this notes future plans.</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="todo-list">Todo List<a href="#todo-list" class="hash-link" aria-label="Direct link to Todo List" title="Direct link to Todo List">​</a></h2><ul class="contains-task-list containsTaskList_mC6p"><li class="task-list-item"><input type="checkbox" disabled=""> <!-- -->Make a complete Tutorial about </li><li class="task-list-item"><input type="checkbox" disabled=""> <!-- -->Accept feedbacks</li><li class="task-list-item"><input type="checkbox" disabled=""> <!-- -->Accept contributions</li><li class="task-list-item"><input type="checkbox" disabled=""> <!-- -->Add funding page</li><li class="task-list-item"><input type="checkbox" disabled=""> <!-- -->Add resorce page</li><li class="task-list-item"><input type="checkbox" disabled=""> <!-- -->Add exercise page</li><li class="task-list-item"><input type="checkbox" disabled=""> <!-- -->Add a Playground</li></ul><p>I will try to do it as soon as possible.</p>]]></content>
         <author>
-            <name>nothr</name>
+            <name>Harshith reddy</name>
             <uri>https://github.com/nothr</uri>
         </author>
         <category label="Hello" term="Hello"/>
