@@ -2,7 +2,7 @@
 slug: first-blog-post
 title: First Blog Post
 authors:
-  name: nothr
+  name: Harshith reddy
   title: Nothr's Notes Creator
   url: https://github.com/nothr
   image_url: https://github.com/nothr.png
